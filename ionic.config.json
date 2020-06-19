@@ -1,0 +1,7 @@
+{
+  "name": "ionic-shop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
